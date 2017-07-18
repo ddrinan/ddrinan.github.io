@@ -4,6 +4,24 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+**Publications**
+_Drinan, DP_, Galindo, HM, Loher, T, and Hauser, L. 2016. Subtle genetic population structure in Pacific halibut _Hippoglossus stenolepis_. _Journal of Fish Biology_ 89:2571-2594.
+
+_Drinan, DP_, Webb, MAH, Naish, KA, Kalinowski, ST, Boyer, MC, Steed, AC, Shepard, BB, and Muhlfeld, CC. 2015.
+Effects of hybridization between nonnative rainbow trout and native westslope cutthroat trout on fitness-related traits. 
+_Transactions of the American Fisheries Society_ 145:1275-1291.
+
+Brieuc, MSO, Ono, K, _Drinan, DP_, Naish, KA. 2015. Integration of Random Forest with population-based outlier analyses provides insight on the genomic basis and evolution of run timing in Chinook salmon (_Oncorhynchus tshawytscha_). _Molecular Ecology_ 24:2729-2746.
+
+_Drinan, DP_, Zale, AV, Webb, MAH, Shepard, BB, and Kalinowski, ST. 2012.
+Evidence of local adaptation in westslope cutthroat trout
+_Transactions of the American Fisheries Society_ 141:872-880.
+
+_Drinan, DP_, Kalinowski, ST, Vu, NV, Shepard, BB, Muhlfeld, CC, and Campbell, MR. 2011. Genetic variation in westslope cutthroat trout _Oncorhynchus clarkii lewisi_: implications for conservation. _Conservation Genetics_ 12:1513-1523.
+
+Kalinowski, ST, Novak, BJ, Drinan, DP, Jennings, RD, and Vu, NV. 2011. 
+Diagnostic single nucleotide polymorphisms for identifying westslope cutthroat trout (_Oncorhynchus clarki lewisi_), Yellowstone cutthroat trout (_Oncorhynchus clarkii bouvieri_) and rainbow trout (_Oncorhynchus mykiss_). _Molecular Ecology Resources_ 11:389-393.
+
 [Link to another page](another-page).
 
 There should be whitespace between paragraphs.
